@@ -7,16 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D95DBB72BA107800016F039 /* UglyColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBB62BA107800016F039 /* UglyColor.swift */; };
+		5D95DBB92BA109630016F039 /* DailyMadness.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBB82BA109630016F039 /* DailyMadness.swift */; };
+		5D95DBBB2BA10B0E0016F039 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBBA2BA10B0E0016F039 /* CardView.swift */; };
+		5D95DBBE2BA11C2F0016F039 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBBD2BA11C2F0016F039 /* TrailingIconLabelStyle.swift */; };
+		5D95DBC02BA11F050016F039 /* SuppliceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBBF2BA11F050016F039 /* SuppliceListView.swift */; };
+		5D95DBC32BA12CF10016F039 /* TortureDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBC22BA12CF10016F039 /* TortureDetailsView.swift */; };
+		5D95DBC52BA226F90016F039 /* TortureEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBC42BA226F90016F039 /* TortureEditView.swift */; };
+		5D95DBC72BA2437C0016F039 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBC62BA2437C0016F039 /* ThemeView.swift */; };
+		5D95DBC92BA245130016F039 /* UglyColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBC82BA245130016F039 /* UglyColorPickerView.swift */; };
+		5D95DBCC2BA250F50016F039 /* TortureTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBCB2BA250F50016F039 /* TortureTimer.swift */; };
+		5D95DBCE2BA25A5B0016F039 /* TortureSessionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBCD2BA25A5B0016F039 /* TortureSessionHeaderView.swift */; };
+		5D95DBD02BA263CC0016F039 /* TortureSessionFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBCF2BA263CC0016F039 /* TortureSessionFooterView.swift */; };
+		5D95DBD22BA273DF0016F039 /* NewMadnessSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBD12BA273DF0016F039 /* NewMadnessSheet.swift */; };
+		5D95DBD42BA2783C0016F039 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBD32BA2783C0016F039 /* History.swift */; };
+		5D95DBD62BA3A5250016F039 /* MadnessStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBD52BA3A5250016F039 /* MadnessStore.swift */; };
+		5D95DBD82BA3C5A30016F039 /* TortureTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBD72BA3C5A30016F039 /* TortureTimerView.swift */; };
+		5D95DBDA2BA3C7C00016F039 /* TortureArc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D95DBD92BA3C7C00016F039 /* TortureArc.swift */; };
 		5DED61D72BA0FB4E00F8CC8B /* ScrumSucksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DED61D62BA0FB4E00F8CC8B /* ScrumSucksApp.swift */; };
-		5DED61D92BA0FB4E00F8CC8B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DED61D82BA0FB4E00F8CC8B /* ContentView.swift */; };
+		5DED61D92BA0FB4E00F8CC8B /* TortureSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DED61D82BA0FB4E00F8CC8B /* TortureSessionView.swift */; };
 		5DED61DB2BA0FB5100F8CC8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DED61DA2BA0FB5100F8CC8B /* Assets.xcassets */; };
 		5DED61DE2BA0FB5100F8CC8B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DED61DD2BA0FB5100F8CC8B /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5D95DBB62BA107800016F039 /* UglyColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyColor.swift; sourceTree = "<group>"; };
+		5D95DBB82BA109630016F039 /* DailyMadness.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyMadness.swift; sourceTree = "<group>"; };
+		5D95DBBA2BA10B0E0016F039 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		5D95DBBD2BA11C2F0016F039 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
+		5D95DBBF2BA11F050016F039 /* SuppliceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuppliceListView.swift; sourceTree = "<group>"; };
+		5D95DBC22BA12CF10016F039 /* TortureDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureDetailsView.swift; sourceTree = "<group>"; };
+		5D95DBC42BA226F90016F039 /* TortureEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureEditView.swift; sourceTree = "<group>"; };
+		5D95DBC62BA2437C0016F039 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
+		5D95DBC82BA245130016F039 /* UglyColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyColorPickerView.swift; sourceTree = "<group>"; };
+		5D95DBCB2BA250F50016F039 /* TortureTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureTimer.swift; sourceTree = "<group>"; };
+		5D95DBCD2BA25A5B0016F039 /* TortureSessionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureSessionHeaderView.swift; sourceTree = "<group>"; };
+		5D95DBCF2BA263CC0016F039 /* TortureSessionFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureSessionFooterView.swift; sourceTree = "<group>"; };
+		5D95DBD12BA273DF0016F039 /* NewMadnessSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewMadnessSheet.swift; sourceTree = "<group>"; };
+		5D95DBD32BA2783C0016F039 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		5D95DBD52BA3A5250016F039 /* MadnessStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MadnessStore.swift; sourceTree = "<group>"; };
+		5D95DBD72BA3C5A30016F039 /* TortureTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureTimerView.swift; sourceTree = "<group>"; };
+		5D95DBD92BA3C7C00016F039 /* TortureArc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureArc.swift; sourceTree = "<group>"; };
 		5DED61D32BA0FB4E00F8CC8B /* ScrumSucks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrumSucks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DED61D62BA0FB4E00F8CC8B /* ScrumSucksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumSucksApp.swift; sourceTree = "<group>"; };
-		5DED61D82BA0FB4E00F8CC8B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		5DED61D82BA0FB4E00F8CC8B /* TortureSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortureSessionView.swift; sourceTree = "<group>"; };
 		5DED61DA2BA0FB5100F8CC8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DED61DD2BA0FB5100F8CC8B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -32,6 +66,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D95DBB52BA107100016F039 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				5D95DBB82BA109630016F039 /* DailyMadness.swift */,
+				5D95DBB62BA107800016F039 /* UglyColor.swift */,
+				5D95DBD32BA2783C0016F039 /* History.swift */,
+				5D95DBD52BA3A5250016F039 /* MadnessStore.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		5D95DBBC2BA11C110016F039 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				5D95DBBA2BA10B0E0016F039 /* CardView.swift */,
+				5D95DBC62BA2437C0016F039 /* ThemeView.swift */,
+				5D95DBBD2BA11C2F0016F039 /* TrailingIconLabelStyle.swift */,
+				5D95DBC82BA245130016F039 /* UglyColorPickerView.swift */,
+				5D95DBCD2BA25A5B0016F039 /* TortureSessionHeaderView.swift */,
+				5D95DBCF2BA263CC0016F039 /* TortureSessionFooterView.swift */,
+				5D95DBD72BA3C5A30016F039 /* TortureTimerView.swift */,
+				5D95DBD92BA3C7C00016F039 /* TortureArc.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		5D95DBC12BA12CCE0016F039 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5DED61D82BA0FB4E00F8CC8B /* TortureSessionView.swift */,
+				5D95DBBF2BA11F050016F039 /* SuppliceListView.swift */,
+				5D95DBC22BA12CF10016F039 /* TortureDetailsView.swift */,
+				5D95DBC42BA226F90016F039 /* TortureEditView.swift */,
+				5D95DBD12BA273DF0016F039 /* NewMadnessSheet.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5D95DBCA2BA250C70016F039 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				5D95DBCB2BA250F50016F039 /* TortureTimer.swift */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
 		5DED61CA2BA0FB4E00F8CC8B = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +131,11 @@
 		5DED61D52BA0FB4E00F8CC8B /* ScrumSucks */ = {
 			isa = PBXGroup;
 			children = (
+				5D95DBBC2BA11C110016F039 /* Components */,
+				5D95DBCA2BA250C70016F039 /* Domain */,
+				5D95DBB52BA107100016F039 /* Models */,
+				5D95DBC12BA12CCE0016F039 /* Views */,
 				5DED61D62BA0FB4E00F8CC8B /* ScrumSucksApp.swift */,
-				5DED61D82BA0FB4E00F8CC8B /* ContentView.swift */,
 				5DED61DA2BA0FB5100F8CC8B /* Assets.xcassets */,
 				5DED61DC2BA0FB5100F8CC8B /* Preview Content */,
 			);
@@ -137,8 +220,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5DED61D92BA0FB4E00F8CC8B /* ContentView.swift in Sources */,
+				5D95DBD82BA3C5A30016F039 /* TortureTimerView.swift in Sources */,
+				5D95DBB72BA107800016F039 /* UglyColor.swift in Sources */,
+				5D95DBBE2BA11C2F0016F039 /* TrailingIconLabelStyle.swift in Sources */,
+				5D95DBC32BA12CF10016F039 /* TortureDetailsView.swift in Sources */,
+				5D95DBD02BA263CC0016F039 /* TortureSessionFooterView.swift in Sources */,
+				5DED61D92BA0FB4E00F8CC8B /* TortureSessionView.swift in Sources */,
+				5D95DBC52BA226F90016F039 /* TortureEditView.swift in Sources */,
+				5D95DBD62BA3A5250016F039 /* MadnessStore.swift in Sources */,
 				5DED61D72BA0FB4E00F8CC8B /* ScrumSucksApp.swift in Sources */,
+				5D95DBCE2BA25A5B0016F039 /* TortureSessionHeaderView.swift in Sources */,
+				5D95DBCC2BA250F50016F039 /* TortureTimer.swift in Sources */,
+				5D95DBB92BA109630016F039 /* DailyMadness.swift in Sources */,
+				5D95DBD42BA2783C0016F039 /* History.swift in Sources */,
+				5D95DBC02BA11F050016F039 /* SuppliceListView.swift in Sources */,
+				5D95DBC72BA2437C0016F039 /* ThemeView.swift in Sources */,
+				5D95DBC92BA245130016F039 /* UglyColorPickerView.swift in Sources */,
+				5D95DBDA2BA3C7C00016F039 /* TortureArc.swift in Sources */,
+				5D95DBD22BA273DF0016F039 /* NewMadnessSheet.swift in Sources */,
+				5D95DBBB2BA10B0E0016F039 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
